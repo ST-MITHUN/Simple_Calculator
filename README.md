@@ -1,6 +1,6 @@
 # Simple Calculator (Java Practice Project)
 
-## 📋 Project Description
+##  Project Description
 
 This is a basic **Simple Calculator** built using Java. It allows users to perform simple arithmetic operations such as:
 
@@ -11,18 +11,18 @@ This is a basic **Simple Calculator** built using Java. It allows users to perfo
 
 This project was created as part of my **1st Semester practice project** to understand the fundamentals of Java — including variables, conditionals, methods, loops, and user input.
 
-## 💻 Features
+##  Features
 
 - User-friendly console-based interface
 - Supports basic arithmetic operations
 - Repeats until the user decides to exit
 
-## 🚀 Technologies Used
+##  Technologies Used
 
 - Java (JDK 17)
 - Command-line interface (CLI)
 
-## 🎓 Learning Outcome
+##  Learning Outcome
 
 Through this project, I learned:
 
